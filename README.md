@@ -89,7 +89,3 @@ Emotion recognition from audio data has impactful applications across various se
 
 ## Future Improvements
 - Implement real-time emotion detection using microphone input.
-
-
-
->>>>>>> a98deb0 (Added essential project files/dependencies)
